@@ -1,0 +1,7 @@
+!mkdir -p .kiro/steering
+!vi .kiro/steering/frontend-standards.md
+!vi .kiro/steering/backend-standards.md
+
+!vi ~/.kiro/settings/mcp.json
+/agent create --name frontend-agent
+
